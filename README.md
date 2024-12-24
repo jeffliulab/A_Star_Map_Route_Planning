@@ -3,6 +3,10 @@ This project based on A*, OSM, IO2D, to implement map route planning.
 
 This is not the Udacity course project, all codes are based on the libraries mentioned above and finished by myself. The udacity A* route planning project is: https://github.com/jeffliulab/Udacity_Fork_Only_No_Derivatives_CppND-Route-Planning-Project
 
+# Developing Process
+
+**V0(Now)** => V1: Can load map and plot a simple route => V2: Final Implementation
+
 # Directory
 
 ```
